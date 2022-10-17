@@ -1,0 +1,172 @@
+Uri: https://121212.tilda.ws/
+File Name: C:\Downloaded Web Sites\121212.tilda.ws\index.htm
+Content Type: text/html
+
+Uri: https://121212.tilda.ws/policy
+File Name: C:\Downloaded Web Sites\121212.tilda.ws\policy.html
+Content Type: text/html
+
+Uri: https://121212.tilda.ws/tilda-blocks-2.14.css?t=1643614165
+File Name: C:\Downloaded Web Sites\121212.tilda.ws\tilda-blocks-2.14.css
+Content Type: text/css
+
+Uri: https://121212.tilda.ws/tilda-blocks-2.7.js?t=1643614165
+File Name: C:\Downloaded Web Sites\121212.tilda.ws\tilda-blocks-2.7.js
+Content Type: application/javascript
+
+Uri: https://121212.tilda.ws/tilda-blocks-page9557072.min.css?t=1661769174
+File Name: C:\Downloaded Web Sites\121212.tilda.ws\tilda-blocks-page9557072.min.css
+Content Type: text/css
+
+Uri: https://121212.tilda.ws/tilda-blocks-page9557072.min.js?t=1661769174
+File Name: C:\Downloaded Web Sites\121212.tilda.ws\tilda-blocks-page9557072.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Amatic+SC:400,700&display=swap&subset=cyrillic
+File Name: C:\Downloaded Web Sites\121212.tilda.ws\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/amaticsc/v24/TUZ3zwprpvBS1izr_vOMscGKerUH.ttf
+File Name: C:\Downloaded Web Sites\121212.tilda.ws\s\amaticsc\v24\TUZ3zwprpvBS1izr_vOMscGKerUH.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/amaticsc/v24/TUZyzwprpvBS1izr_vOEDuSa.ttf
+File Name: C:\Downloaded Web Sites\121212.tilda.ws\s\amaticsc\v24\TUZyzwprpvBS1izr_vOEDuSa.ttf
+Content Type: font/ttf
+
+Uri: https://mc.yandex.ru/watch/57763117/1
+File Name: C:\Downloaded Web Sites\121212.tilda.ws\watch\57763117\1
+Content Type: image/gif
+
+Uri: https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js
+File Name: C:\Downloaded Web Sites\121212.tilda.ws\js\tilda-fallback-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/css/tilda-animation-1.0.min.css
+File Name: C:\Downloaded Web Sites\121212.tilda.ws\css\tilda-animation-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-forms-1.0.min.css
+File Name: C:\Downloaded Web Sites\121212.tilda.ws\css\tilda-forms-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-grid-3.0.min.css
+File Name: C:\Downloaded Web Sites\121212.tilda.ws\css\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-popup-1.1.min.css
+File Name: C:\Downloaded Web Sites\121212.tilda.ws\css\tilda-popup-1.1.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-slds-1.4.min.css
+File Name: C:\Downloaded Web Sites\121212.tilda.ws\css\tilda-slds-1.4.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-zoom-2.0.min.css
+File Name: C:\Downloaded Web Sites\121212.tilda.ws\css\tilda-zoom-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/img/tildacopy_black.png
+File Name: C:\Downloaded Web Sites\121212.tilda.ws\img\tildacopy_black.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/js/hammer.min.js
+File Name: C:\Downloaded Web Sites\121212.tilda.ws\js\hammer.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/jquery-1.10.2.min.js
+File Name: C:\Downloaded Web Sites\121212.tilda.ws\js\jquery-1.10.2.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/lazyload-1.3.min.js
+File Name: C:\Downloaded Web Sites\121212.tilda.ws\js\lazyload-1.3.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-animation-1.0.min.js
+File Name: C:\Downloaded Web Sites\121212.tilda.ws\js\tilda-animation-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-animation-sbs-1.0.min.js
+File Name: C:\Downloaded Web Sites\121212.tilda.ws\js\tilda-animation-sbs-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-cover-1.0.min.js
+File Name: C:\Downloaded Web Sites\121212.tilda.ws\js\tilda-cover-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-events-1.0.min.js
+File Name: C:\Downloaded Web Sites\121212.tilda.ws\js\tilda-events-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-fonts.min.js
+File Name: C:\Downloaded Web Sites\121212.tilda.ws\js\tilda-fonts.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-forms-1.0.min.js
+File Name: C:\Downloaded Web Sites\121212.tilda.ws\js\tilda-forms-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-menu-1.0.min.js
+File Name: C:\Downloaded Web Sites\121212.tilda.ws\js\tilda-menu-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-popup-1.0.min.js
+File Name: C:\Downloaded Web Sites\121212.tilda.ws\js\tilda-popup-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-scripts-3.0.min.js
+File Name: C:\Downloaded Web Sites\121212.tilda.ws\js\tilda-scripts-3.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-slds-1.4.min.js
+File Name: C:\Downloaded Web Sites\121212.tilda.ws\js\tilda-slds-1.4.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-1.0.min.js
+File Name: C:\Downloaded Web Sites\121212.tilda.ws\js\tilda-zero-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zoom-2.0.min.js
+File Name: C:\Downloaded Web Sites\121212.tilda.ws\js\tilda-zoom-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/tild3165-6238-4530-a438-363034636230/-/resizeb/20x/photo542036997922997.jpg
+File Name: C:\Downloaded Web Sites\121212.tilda.ws\tild3165-6238-4530-a438-363034636230\-\resizeb\20x\photo542036997922997.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3235-3532-4465-b662-653163303234/-/resize/20x/zashhitnaya_plenka_d.jpg
+File Name: C:\Downloaded Web Sites\121212.tilda.ws\tild3235-3532-4465-b662-653163303234\-\resize\20x\zashhitnaya_plenka_d.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3364-3632-4366-a162-393361613435/-/resize/20x/saphir_095160305-min.jpg
+File Name: C:\Downloaded Web Sites\121212.tilda.ws\tild3364-3632-4366-a162-393361613435\-\resize\20x\saphir_095160305-min.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3930-3464-4835-b565-343930343533/carpet.png
+File Name: C:\Downloaded Web Sites\121212.tilda.ws\tild3930-3464-4835-b565-343930343533\carpet.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3931-6661-4162-a135-643338613932/favicon.ico
+File Name: C:\Downloaded Web Sites\121212.tilda.ws\tild3931-6661-4162-a135-643338613932\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://static.tildacdn.com/tild3935-6165-4564-b565-386530646561/-/resize/20x/Stopwatch-from-chine.jpg
+File Name: C:\Downloaded Web Sites\121212.tilda.ws\tild3935-6165-4564-b565-386530646561\-\resize\20x\Stopwatch-from-chine.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6131-6238-4033-b763-393436306530/-/resizeb/20x/photo542036997922997.jpg
+File Name: C:\Downloaded Web Sites\121212.tilda.ws\tild6131-6238-4033-b763-393436306530\-\resizeb\20x\photo542036997922997.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6137-3735-4334-a631-336139376564/-/resizeb/20x/photo542036997922997.jpg
+File Name: C:\Downloaded Web Sites\121212.tilda.ws\tild6137-3735-4334-a631-336139376564\-\resizeb\20x\photo542036997922997.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6162-3631-4866-a330-306634343431/-/resizeb/20x/photo542036997922997.jpg
+File Name: C:\Downloaded Web Sites\121212.tilda.ws\tild6162-3631-4866-a330-306634343431\-\resizeb\20x\photo542036997922997.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6565-6134-4866-b835-383363623463/__.jpg
+File Name: C:\Downloaded Web Sites\121212.tilda.ws\tild6565-6134-4866-b835-383363623463\__.jpg
+Content Type: image/jpeg
+
